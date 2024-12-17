@@ -14,22 +14,6 @@ Each card is coded with clean HTML and CSS, following the **BEM (Block Element M
 
 ---
 
-## 📸 **Card Previews**
-
-### **1. Profile Card**
-A clean and minimalistic profile card showcasing user information and social links.
-
-![Profile Card](./images/profile-card.png)
-
----
-
-### **2. Learning Card**
-A visually appealing card for displaying learning topics, tags, and author information.
-
-![Learning Card](./images/learning-card.png)
-
----
-
 ## 🛠️ **Technologies Used**
 - **HTML5**: Markup for card structure.
 - **CSS3**: Styling for layout and design.
